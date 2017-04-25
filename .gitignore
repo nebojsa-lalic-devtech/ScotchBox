@@ -1,0 +1,4 @@
+.idea
+/vendor/
+/public/templates_c/
+/app/NL/logger/loggerFile.log
